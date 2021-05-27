@@ -5,7 +5,7 @@
 <div>
   
 ![age](https://img.shields.io/badge/age-21-red)
-![focus](https://img.shields.io/badge/focus-backend-brightgreen)
+![focus](https://img.shields.io/badge/focus-frontend-blue)
 ![living](https://img.shields.io/badge/living-iran-3c9)
 
 <br>
