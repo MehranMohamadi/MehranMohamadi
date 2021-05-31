@@ -1,12 +1,13 @@
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 <div align="center">
   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="50px" >, I'm Mehran Mohammadi</h1>
 </div>
 
 <div>
   
-![age](https://img.shields.io/badge/age-21-red)
-![focus](https://img.shields.io/badge/focus-frontend-blue)
-![living](https://img.shields.io/badge/living-iran-3c9)
+![Age](https://img.shields.io/badge/age-21-blue)
+![Focus](https://img.shields.io/badge/Focus-Frontend-lightblue)
+![Living](https://img.shields.io/badge/Living-iran-light)
 
 <br>
 <br>
@@ -28,8 +29,8 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehranMohamadi&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehranMohamadi&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=MehranMohamadi&hide_border=true&show_icons=true&line_height=30&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
