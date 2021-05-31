@@ -3,7 +3,7 @@
   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="50px" >, I'm Mehran Mohammadi</h1>
 </div>
 
-<div>
+<div align="center">
   
 ![Age](https://img.shields.io/badge/age-21-blue)
 ![Focus](https://img.shields.io/badge/Focus-Frontend-lightblue)
