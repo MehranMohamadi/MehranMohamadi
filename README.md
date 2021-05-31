@@ -29,7 +29,7 @@
 <br>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehranMohamadi&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehranMohamadi&theme=chartreuse-dark&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=MehranMohamadi&hide_border=true&show_icons=true&line_height=30&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <br>
