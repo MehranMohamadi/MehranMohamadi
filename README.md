@@ -1,4 +1,4 @@
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
 <div align="center">
   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="50px" >, I'm Mehran Mohammadi</h1>
 </div>
@@ -27,11 +27,11 @@
 
 <br>
 <br>
-
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehranMohamadi&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=MehranMohamadi&hide_border=true&show_icons=true&line_height=30&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 <br>
 
 <div align="center">
