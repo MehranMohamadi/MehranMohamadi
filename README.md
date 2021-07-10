@@ -11,8 +11,11 @@
 
 <br>
 <br>
+<div align="center">
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
+</div>
+
 <div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="vue" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>  
