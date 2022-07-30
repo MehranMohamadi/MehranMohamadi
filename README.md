@@ -5,7 +5,7 @@
 
 <div align="center">
   
-![Age](https://img.shields.io/badge/age-21-blue)
+![Age](https://img.shields.io/badge/age-22-blue)
 ![Focus](https://img.shields.io/badge/Focus-Frontend-lightblue)
 ![Living](https://img.shields.io/badge/Living-iran-light)
 
@@ -25,6 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="vue" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="vue" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="python" width="40" height="40"/>
 </div>
 
 <br>
